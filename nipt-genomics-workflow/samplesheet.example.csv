@@ -1,0 +1,4 @@
+sample,fastq_1,fastq_2,layout
+SAMPLE_PAIRED,data/SAMPLE_PAIRED_R1.fastq.gz,data/SAMPLE_PAIRED_R2.fastq.gz,paired
+SAMPLE_SINGLE,data/SAMPLE_SINGLE.fastq.gz,,single
+SAMPLE_AUTO,data/SAMPLE_AUTO_R1.fastq.gz,data/SAMPLE_AUTO_R2.fastq.gz,auto

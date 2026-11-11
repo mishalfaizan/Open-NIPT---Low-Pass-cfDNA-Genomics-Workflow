@@ -1,0 +1,15 @@
+name: nipt-genomics
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+dependencies:
+  - python=3.11
+  - fastqc
+  - fastp
+  - seqkit
+  - multiqc
+  - bwa-mem2
+  - samtools
+  - mosdepth
+  - pandas

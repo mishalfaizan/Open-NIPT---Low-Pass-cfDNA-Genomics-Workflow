@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite it using the metadata below."
+title: "Open NIPT & Low-Pass cfDNA Genomics Workflow"
+type: software
+version: 0.1.0
+date-released: 2026-11-08
+abstract: "A modular educational workflow for short-read cfDNA/NIPT quality control, alignment, and downstream genomics learning."
+license: MIT
